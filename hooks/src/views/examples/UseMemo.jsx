@@ -21,7 +21,7 @@ const UseMemo = (props) => {
         <div className="UseMemo">
             <PageTitle
                 title="Hook UseMemo"
-                subtitle="Retorna um valor memoizado!"
+                subtitle="Retorna um valor memorizado!"
             />
 
             <div className="center">
