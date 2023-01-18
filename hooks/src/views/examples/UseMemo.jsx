@@ -4,7 +4,7 @@ import { useState } from 'react'
 import PageTitle from '../../components/layout/PageTitle'
 
 function sum(a,b) {
-    const future = Date.now()+2000
+    const future = Date.now()+500
     while(Date.now() < future) {}
     return a + b
 }
